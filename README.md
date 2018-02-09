@@ -26,3 +26,6 @@ Gameboy Color Aqua Blue
 
 Nintendo Switch Grey Joycons
 
+##Check out my friend Liam!
+
+https://github.com/kekmaster97
